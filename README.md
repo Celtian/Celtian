@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Dominik Hladík
-- ✨ I’m Angular developer
+- ✨ I’m Typescript developer
 
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=Celtian&label=Profile%20views&color=0e75b6&style=flat" alt="Celtian" />
